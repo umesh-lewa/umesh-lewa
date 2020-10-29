@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other developers
-🥅 2020 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
+### 🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
+### 🌱 I’m currently learning everything 🤣
+### 👯 I’m looking to collaborate with other developers
+### 🥅 2020 Goals: Contribute more to Open Source projects
+### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3JavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
+### Languages and Tools:
+### Visual Studio CodeHTML5CSS3JavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
 
 
