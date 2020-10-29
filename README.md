@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
   <br>
-  <summary>🤖 <b>Languages and Tools and Technologies</b>: </summary>
+  <summary>🤖 <b>Languages, Tools and Technologies</b>: </summary>
   <p align="left"> 
   <br>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -43,10 +43,3 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </p>
-  
-
-
-
-## Visual Studio CodeHTML5CSS3JavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
-
-
