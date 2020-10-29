@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
-## 🌱 I’m currently learning everything 🤣
-## 👯 I’m looking to collaborate with other developers
-## 🥅 2020 Goals: Contribute more to Open Source projects
-## ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
+#### 🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
+#### 🌱 I’m currently learning everything 🤣
+#### 👯 I’m looking to collaborate with other developers
+#### 🥅 2020 Goals: Contribute more to Open Source projects
+#### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
 
-<details>
   <summary>🤖 <b>Languages and Tools and Technologies</b>: </summary>
   <p align="left"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -41,8 +40,8 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
   
-  </details>
-<details> 
+
+
 
 ## Visual Studio CodeHTML5CSS3JavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
 
