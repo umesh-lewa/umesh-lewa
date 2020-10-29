@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
 #### 🌱 I’m currently learning everything 🤣
 #### 👯 I’m looking to collaborate with other developers
+#### 📫 How to reach me: Visit my [porfolio website](https://vijaysagar111.github.io/vijaysagar111/) for complete background and contact
 #### 🥅 2020 Goals: Contribute more to Open Source projects
 #### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
-
+  <br>
   <summary>🤖 <b>Languages and Tools and Technologies</b>: </summary>
   <p align="left"> 
+  <br>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
