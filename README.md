@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working on: Becoming A MERN stack SuperHero!!
-#### 🌱 I’m currently learning everything 🤣
+#### 🔭 I’m currently working on: Becoming A MERN stack SuperHero !!
+#### 🌱 I’m currently learning GraphQL
 #### 👯 I’m looking to collaborate with other developers
 #### 📫 How to reach me: Visit my [porfolio](https://umesh-lewa.github.io) for complete background and contact
 #### 🥅 2020 Goals: Contribute more to Open Source projects
