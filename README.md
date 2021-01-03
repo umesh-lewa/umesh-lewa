@@ -30,11 +30,15 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <!-- Typescript -->
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>
+  <!-- Bootstrap -->
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/>
+  <!-- React -->
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <!-- Webpack -->
+  <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/>
   <!-- Nodejs -->
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/>
   <!-- Spring -->
