@@ -52,9 +52,9 @@ Here are some ideas to get you started:
   <!-- AWS -->
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
   <!-- MySQL -->
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/>
+  <!-- MongoDB -->
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> 
+  <!-- Python -->
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> 
   </p>
