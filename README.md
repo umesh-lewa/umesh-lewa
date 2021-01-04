@@ -43,12 +43,18 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <!-- Webpack -->
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/>
+  <!-- Angular -->
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
+  
   <!-- Nodejs -->
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/>
   <!-- Spring -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="docker" width="40" height="40"/>
   <!-- Docker -->
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="spring" width="40" height="40"/>
+  <!-- Linux -->
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="linux" width="40" height="40"/>
+  
   <!-- AWS -->
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
   <!-- MySQL -->
