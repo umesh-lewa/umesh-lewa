@@ -49,12 +49,24 @@ Here are some ideas to get you started:
   
   <!-- Nodejs -->
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/>
+  <!-- Express -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <!-- Electron -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  
+  
   <!-- Spring -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="docker" width="40" height="40"/>
   <!-- Docker -->
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="spring" width="40" height="40"/>
   <!-- Linux -->
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="linux" width="40" height="40"/>
+  <!-- Bash -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <!-- Jenkins -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  
+  
   
   <!-- AWS -->
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
