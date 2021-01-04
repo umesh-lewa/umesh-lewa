@@ -39,8 +39,9 @@ Here are some ideas to get you started:
   <!-- Bootstrap -->
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/>
   <!-- React -->
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="40" height="40"/>
+  <!-- Redux -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <!-- Webpack -->
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/>
   <!-- Angular -->
@@ -63,4 +64,5 @@ Here are some ideas to get you started:
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> 
   <!-- Python -->
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> 
+
   </p>
