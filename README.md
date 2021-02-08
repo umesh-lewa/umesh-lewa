@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 I’m currently working on: Becoming A MERN stack SuperHero !!
-#### 🌱 I’m currently learning GraphQL
-#### 👯 I’m looking to collaborate with other developers
+#### 🌱 I’m currently learning: GraphQL
+#### 👯 I’m looking to: collaborate with other developers
 #### 📫 How to reach me: Visit my [porfolio](https://umesh-lewa.github.io) for complete background and contact
+<!--
 #### 🥅 2021 Goals: Contribute more to Open Source projects
+-->
 #### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
   <br>
