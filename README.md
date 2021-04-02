@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 -->
 #### ⚡ Fun fact: I love to play COD, Witcher 3 and my SteamID is d3mon4tor
 
+##### https://www.hackerrank.com/umesh_lewa
+##### https://www.guvi.in/umeshlewa86
+
   <br>
   <summary>🤖 <b>Languages, Tools and Technologies</b>: </summary>
   <p align="left"> 
