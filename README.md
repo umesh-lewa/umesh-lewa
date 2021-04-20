@@ -44,6 +44,8 @@ Here are some ideas to get you started:
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
   <!-- Typescript -->
   <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>
+  <!-- JQuery -->
+  <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>
   <!-- Bootstrap -->
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/>
   <!-- React -->
@@ -65,6 +67,8 @@ Here are some ideas to get you started:
   
   <!-- Spring -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="docker" width="40" height="40"/>
+  <!-- Tomcat -->
+  <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
   <!-- Docker -->
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="spring" width="40" height="40"/>
   <!-- Linux -->
@@ -73,7 +77,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <!-- Jenkins -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  
   
   
   <!-- AWS -->
