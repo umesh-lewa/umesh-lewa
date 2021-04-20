@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 #### 🔗 https://leetcode.com/umesh_lewa/
 #### 🔗 https://www.freecodecamp.org/fcc503dd559-5b51-4edd-ba9a-70690a8bbdda
 #### 🔗 https://www.hackerearth.com/@umesh.lewa
+#### 🔗 https://auth.geeksforgeeks.org/user/umesh_lewa/practice/
 
   <br>
   <summary>🤖 <b>Languages, Tools and Technologies</b>: </summary>
