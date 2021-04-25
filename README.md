@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 #### 🔗 https://www.hackerrank.com/umesh_lewa
 #### 🔗 https://leetcode.com/umesh_lewa/
-#### 🔗 https://www.guvi.in/umeshlewa86
-#### 🔗 https://auth.geeksforgeeks.org/user/umesh_lewa/practice/
 #### 🔗 https://www.freecodecamp.org/fcc503dd559-5b51-4edd-ba9a-70690a8bbdda
+#### 🔗 https://auth.geeksforgeeks.org/user/umesh_lewa/practice/
+#### 🔗 https://www.guvi.in/umeshlewa86
 #### 🔗 https://www.hackerearth.com/@umesh.lewa
 
 
