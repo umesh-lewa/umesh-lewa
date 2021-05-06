@@ -88,6 +88,10 @@ Here are some ideas to get you started:
   <!-- MongoDB -->
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> 
   <!-- Python -->
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
+  
+  <!-- Scala -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/>
+  
 
   </p>
