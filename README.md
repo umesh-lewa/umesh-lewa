@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Check out my reading list --> https://www.goodreads.com/review/list/137090152?shelf=%23ALL%23
+
 #### 🔭 I’m currently working on: Becoming A MERN stack SuperHero !!
 #### 🌱 I’m currently learning: GraphQL
 #### 👯 I’m looking to: collaborate with other developers
